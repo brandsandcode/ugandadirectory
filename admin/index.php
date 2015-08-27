@@ -13,6 +13,7 @@
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+<!--    <link href="../css/bootstrap.min.css" rel="stylesheet">-->
 
     <!-- Custom CSS -->
     <link href="css/sb-admin.css" rel="stylesheet">
@@ -161,6 +162,9 @@
                     <li>
                         <a href="tables.html"><i class="fa fa-fw fa-book"></i> Directory</a>
                     </li>
+                    <li>
+                        <a href="info_guide.php"><i class="fa fa-fw fa-info-circle"></i> Info Guide</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -191,11 +195,11 @@
                             <div class="panel-heading">
                                 <div class="row">
                                     <div class="col-xs-3">
-                                        <i class="fa fa-comments fa-5x"></i>
+                                        <i class="fa fa-briefcase fa-5x"></i>
                                     </div>
                                     <div class="col-xs-9 text-right">
                                         <div class="huge">26</div>
-                                        <div>New Comments!</div>
+                                        <div>Pending Appproval</div>
                                     </div>
                                 </div>
                             </div>
