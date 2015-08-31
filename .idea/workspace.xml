@@ -25,23 +25,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.5" vertical-offset="2312" max-vertical-offset="7344">
-              <caret line="166" column="25" selection-start-line="164" selection-start-column="20" selection-end-line="166" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.9086022" vertical-offset="4168" max-vertical-offset="5219">
+              <caret line="292" column="20" selection-start-line="292" selection-start-column="20" selection-end-line="292" selection-end-column="20" />
               <folding>
                 <element signature="tag#li#2;tag#ul#0;tag#nav#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="tag#div#3;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="events.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="events.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/events.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8172043" vertical-offset="2349" max-vertical-offset="5338">
-              <caret line="165" column="17" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
+            <state vertical-scroll-proportion="-20.153847" vertical-offset="4015" max-vertical-offset="5338">
+              <caret line="267" column="17" selection-start-line="267" selection-start-column="17" selection-end-line="267" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -50,8 +53,8 @@
       <file leaf-file-name="info_guide.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin/info_guide.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.884615" vertical-offset="411" max-vertical-offset="5321">
-              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            <state vertical-scroll-proportion="-20.153847" vertical-offset="1516" max-vertical-offset="5321">
+              <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
               <folding>
                 <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
@@ -70,8 +73,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/admin/info_guide.php" />
-        <option value="$PROJECT_DIR$/admin/index.php" />
         <option value="$PROJECT_DIR$/admin/events.php" />
+        <option value="$PROJECT_DIR$/admin/index.php" />
       </list>
     </option>
   </component>
@@ -207,6 +210,9 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8857aae4-9ad2-4e29-acf3-ff21ce2451de" name="Default" comment="" />
@@ -402,10 +408,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/admin/events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.153847" vertical-offset="4015" max-vertical-offset="5338">
+          <caret line="267" column="17" selection-start-line="267" selection-start-column="17" selection-end-line="267" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/admin/info_guide.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.884615" vertical-offset="411" max-vertical-offset="5321">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+        <state vertical-scroll-proportion="-20.153847" vertical-offset="1516" max-vertical-offset="5321">
+          <caret line="120" column="30" selection-start-line="120" selection-start-column="30" selection-end-line="120" selection-end-column="30" />
           <folding>
             <element signature="tag#div#0;tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
@@ -414,19 +428,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/admin/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.5" vertical-offset="2312" max-vertical-offset="7344">
-          <caret line="166" column="25" selection-start-line="164" selection-start-column="20" selection-end-line="166" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.9086022" vertical-offset="4168" max-vertical-offset="5219">
+          <caret line="292" column="20" selection-start-line="292" selection-start-column="20" selection-end-line="292" selection-end-column="20" />
           <folding>
             <element signature="tag#li#2;tag#ul#0;tag#nav#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#2;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="tag#div#3;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/admin/events.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8172043" vertical-offset="2349" max-vertical-offset="5338">
-          <caret line="165" column="17" selection-start-line="165" selection-start-column="17" selection-end-line="165" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>

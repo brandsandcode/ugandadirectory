@@ -281,6 +281,15 @@
                 </div>
                 <!-- /.row -->
 
+                <div class="row col-lg-10" style="border: solid 1px #9b9da0">
+                    <h3 style="padding-left: 50px; padding-right: 20px;">Ad Slideshow <a class="btn btn-danger pull-right" href="#">Upload</a> </h3>
+                    <table class="table">
+                        <thead>
+                        <tr><th>No.</th><th>Preview</th><th>Company</th><th>Showing</th><th>Actions</th></tr>
+                        </thead>
+                    </table>
+                </div> <!-- /.row -->
+
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="panel panel-default">
