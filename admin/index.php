@@ -281,8 +281,8 @@
                 </div>
                 <!-- /.row -->
 
-                <div class="row col-lg-10" style="border: solid 1px #9b9da0">
-                    <h3 style="padding-left: 50px; padding-right: 20px;">Ad Slideshow <a class="btn btn-danger pull-right" href="#">Upload</a> </h3>
+                <div class="row col-lg-10" style="border: solid 1px #9b9da0; margin-top: 10px;">
+                    <h3 style="padding-left: 50px; padding-right: 20px;">Ad Slideshow <button type="button" class="btn btn-danger pull-right" data-toggle="modal" data-target="#AdModal">Upload</button> </h3>
                     <table class="table">
                         <thead>
                         <tr><th>No.</th><th>Preview</th><th>Company</th><th>Showing</th><th>Actions</th></tr>
@@ -426,6 +426,35 @@
                     </div>
                 </div>
                 <!-- /.row -->
+
+            <!--Modals-->
+                <div class="modal fade" id="AdModal">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                <h4 class="modal-title">New Ad</h4>
+                            </div>
+                            <div class="modal-body">
+                                <form>
+                                    <div class="form-group">
+                                        <label for="recipient-name" class="control-label">Company:</label>
+                                        <input type="text" class="form-control" id="recipient-name">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="message-text" class="control-label">Image:</label>
+                                        <input type="file" id="message-text"></textarea>
+                                    </div>
+                                </form>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                <button type="button" class="btn btn-primary">Save changes</button>
+                            </div>
+                        </div><!-- /.modal-content -->
+                    </div><!-- /.modal-dialog -->
+                </div><!-- /.modal -->
+
 
             </div>
             <!-- /.container-fluid -->
