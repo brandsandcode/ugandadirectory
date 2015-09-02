@@ -31,6 +31,22 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <script language="JavaScript">
+        $(document).ready(function() {
+//            alert("working");
+            console.log("test: ","jquery working");
+            $('#submitAd').click(function(){
+                console.log("Button clicked");
+                $('#AdModal form').submit();
+            });
+        });
+    </script>
+
 </head>
 
 <body>
@@ -436,7 +452,7 @@
                                 <h4 class="modal-title">New Ad</h4>
                             </div>
                             <div class="modal-body">
-                                <form>
+                                <form action="info_guide.php" method="post">
                                     <div class="form-group">
                                         <label for="recipient-name" class="control-label">Company:</label>
                                         <input type="text" class="form-control" id="recipient-name">
@@ -449,7 +465,7 @@
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                <button type="button" class="btn btn-primary">Save changes</button>
+                                <button type="button" class="btn btn-primary" id="submitAd">Save changes</button>
                             </div>
                         </div><!-- /.modal-content -->
                     </div><!-- /.modal-dialog -->
@@ -466,10 +482,10 @@
     <!-- /#wrapper -->
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+<!--    <script src="js/jquery.js"></script>-->
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+<!--    <script src="js/bootstrap.min.js"></script>-->
 
     <!-- Morris Charts JavaScript -->
     <script src="js/plugins/morris/raphael.min.js"></script>
