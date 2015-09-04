@@ -1,0 +1,44 @@
+.orange-back{
+    background: #f96332;
+    color: white;
+    padding: 24px 40px;
+
+    position: relative;
+}
+
+.whitesmoke-back{
+    background: #f5f5f5;
+    padding: 24px 40px;
+}
+
+.small-date{
+    margin-top: 32px;
+    font-size: small;
+}
+
+
+.orange-back:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 48px;
+    left: 100%;
+    width: 0;
+    height: 0;
+    border: 16px solid transparent;
+    border-left-color: #f96332;
+    z-index: 9999999;
+}
+
+.whitesmoke-back:after {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 48px;
+    left: 100%;
+    width: 0;
+    height: 0;
+    border: 16px solid transparent;
+    border-left-color: #f5f5f5;
+    z-index: 9999999;
+}

@@ -9,6 +9,7 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -73,151 +74,37 @@
     <div class="row">
         <div class="col-md-8">
             <div class="row">
-                <div class="col-md-1">
-                    <h1 style="margin-top: -3px;">12</h1>
-                    <h4>SEPT</h4>
+                <div class="col-md-6 whitesmoke-back">
+                    <h4>NSSF collaborates with URSB on workers pension plan.</h4>
+                    <p class="small-date">28 August 2015</p>
                 </div>
-                <div class="col-md-11">
-                    <div class="media">
-                        <div class="media-left">
-                            <a href="#">
-                                <img class="media-object" src="img/person.png" alt="...">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h5 class="media-heading">1st annual workers fest</h5>
-                            <p>At workers house P.O. BOX. 46T5 <br/>
-                                Pilkington road Kampala
-                            </p>
-                        </div>
-                    </div>
+                <div class="col-md-6 orange-back">
+                    <h4>New Viosion to serialize Wavamuno's book</h4>
+                    <p class="small-date">2 September 2015</p>
                 </div>
             </div>
-
-            <hr/>
-
             <div class="row">
-                <div class="col-md-1">
-                    <h1 style="margin-top: -3px;">28</h1>
-                    <h4>SEPT</h4>
+                <div class="col-md-6 orange-back arrow-left">
+                    <h4>New Viosion to serialize Wavamuno's book</h4>
+                    <p class="small-date">2 September 2015</p>
                 </div>
-                <div class="col-md-11">
-                    <div class="media">
-                        <div class="media-left">
-                            <a href="#">
-                                <img class="media-object" src="img/person.png" alt="...">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h5 class="media-heading">1st annual workers fest</h5>
-                            <p>At workers house P.O. BOX. 46T5 <br/>
-                                Pilkington road Kampala
-                            </p>
-                        </div>
-                    </div>
+                <div class="col-md-6 whitesmoke-back">
+                    <h4>NSSF collaborates with URSB on workers pension plan.</h4>
+                    <p class="small-date">28 August 2015</p>
                 </div>
             </div>
 
-            <hr/>
-
-            <div class="row">
-                <div class="col-md-1">
-                    <h1 style="margin-top: -3px;">20</h1>
-                    <h4>SEPT</h4>
-                </div>
-                <div class="col-md-11">
-                    <div class="media">
-                        <div class="media-left">
-                            <a href="#">
-                                <img class="media-object" src="img/person.png" alt="...">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h5 class="media-heading">1st annual workers fest</h5>
-                            <p>At workers house P.O. BOX. 46T5 <br/>
-                                Pilkington road Kampala
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr/>
-
-            <div class="row">
-                <div class="col-md-1">
-                    <h1 style="margin-top: -3px;">03</h1>
-                    <h4>SEPT</h4>
-                </div>
-                <div class="col-md-11">
-                    <div class="media">
-                        <div class="media-left">
-                            <a href="#">
-                                <img class="media-object" src="img/person.png" alt="...">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h5 class="media-heading">1st annual workers fest</h5>
-                            <p>At workers house P.O. BOX. 46T5 <br/>
-                                Pilkington road Kampala
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr/>
-
-            <div class="row">
-                <div class="col-md-1">
-                    <h1 style="margin-top: -3px;">23</h1>
-                    <h4>SEPT</h4>
-                </div>
-                <div class="col-md-11">
-                    <div class="media">
-                        <div class="media-left">
-                            <a href="#">
-                                <img class="media-object" src="img/person.png" alt="...">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h5 class="media-heading">1st annual workers fest</h5>
-                            <p>At workers house P.O. BOX. 46T5 <br/>
-                                Pilkington road Kampala
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr/>
-
-            <div class="row">
-                <div class="col-md-1">
-                    <h1 style="margin-top: -3px;">12</h1>
-                    <h4>OCT</h4>
-                </div>
-                <div class="col-md-11">
-                    <div class="media">
-                        <div class="media-left">
-                            <a href="#">
-                                <img class="media-object" src="img/person.png" alt="...">
-                            </a>
-                        </div>
-                        <div class="media-body">
-                            <h5 class="media-heading">1st annual workers fest</h5>
-                            <p>At workers house P.O. BOX. 46T5 <br/>
-                                Pilkington road Kampala
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <hr/>
         </div>
-
-        <div class="col-md-4"></div>
+        <div class="col-md-4">
+            <div class="row">
+                <div class="col-md-12">
+                    <img src="img/2.png">
+                </div>
+                <div class="col-md-12">
+                    <p></p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 
