@@ -1,4 +1,4 @@
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse" style="margin-bottom: 0px;">
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -15,7 +15,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 
             <form class="navbar-form navbar-right" role="search">
-                <button type="submit" class="btn btn-primary">Add business</button>
+                <button type="submit" class="btn btn-default">Add business</button>
             </form>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="directory.php">Directory</a></li>

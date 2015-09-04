@@ -32,6 +32,16 @@
                 <li><a href="#">Guest House</a></li>
                 <li><a href="#">Rooms</a></li>
             </ul>
+            <form class="navbar-form navbar-right" role="search">
+                <div class="col-sm-12">
+                    <div class="input-group">
+                        <span class="input-group-addon">
+                            <span class="glyphicon glyphicon-search"></span>
+                        </span>
+                        <input type="text" placeholder="Search service/company" class="form-control" id="inputGroupSuccess2" aria-describedby="inputGroupSuccess2Status">
+                    </div>
+                </div>
+            </form>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
 </nav>
