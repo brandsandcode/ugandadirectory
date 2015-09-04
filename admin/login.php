@@ -17,7 +17,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+    <link rel="icon" href="../favicon.ico">
 
     <title>Signin Template for Bootstrap</title>
 
@@ -28,7 +28,8 @@
     <link href="css/signin.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!--[if lt IE 9]>
+    <script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -43,19 +44,22 @@
 <div class="container">
 
     <div class="row center-block">
-        <img src="" class="center-block" />
-        </div>
+        <img src="../images/web_2.png" class="center-block"/>
+    </div>
 
     <form class="form-signin">
         <h3 class="form-signin-heading text-center">Admin Login</h3>
         <label for="adminUsername" class="sr-only">Email address</label>
-        <input type="email" id="adminUsername" name="adminUsername" class="form-control" placeholder="Email address" required autofocus>
+        <input type="email" id="adminUsername" name="adminUsername" class="form-control" placeholder="Email address"
+               required autofocus>
         <label for="adminPassword" class="sr-only">Password</label>
-        <input type="password" id="adminPassword" name="adminPassword" class="form-control" placeholder="Password" required>
+        <input type="password" id="adminPassword" name="adminPassword" class="form-control" placeholder="Password"
+               required>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
     </form>
 
-</div> <!-- /container -->
+</div>
+<!-- /container -->
 
 
 <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
