@@ -50,115 +50,140 @@
         <div class="col-md-8">
             <h5>200 safari lodges found</h5>
             <hr/>
-            <h4>Mweya safari lodge</h4>
-            <p>P.O. BOX. 1234 kilembe mines <strong>KASESE</strong>
-                Mweya is a safari lodge that tourists hire when touring western uganda.do- lore eu fugiat nulla pariatur. Excepteur sint occaecatanim id est laborum. quae ab illo inventore veritatis et.</p>
-            <ul class="list-inline">
-                <li>
-                    <a href="javascript:void()">
-                    <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                    Phone
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                    <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-                    Map
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                    <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                    Website
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                    <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                    Email
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                    <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
-                    Photos
-                    </a>
-                </li>
-            </ul>
+            <div class="row">
+                <div class="col-md-3">
+                    <img class="img-responsive" src="img/slider/bed1.jpg" />
+                </div>
+                <div class="col-md-9">
+                    <h4>Mweya safari lodge</h4>
+                    <p>P.O. BOX. 1234 kilembe mines <strong>KASESE</strong>
+                        Mweya is a safari lodge that tourists hire when touring western uganda.do- lore eu fugiat nulla pariatur. Excepteur sint occaecatanim id est laborum. quae ab illo inventore veritatis et.</p>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+                                Phone
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+                                Map
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
+                                Website
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                                Email
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
+                                Photos
+                            </a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
 
             <hr/>
-            <h4>Rwenzori safari lodge</h4>
-            <p>P.O. BOX. 1234 kilembe mines <strong>KASESE</strong>
-                Mweya is a safari lodge that tourists hire when touring western uganda.do- lore eu fugiat nulla pariatur. Excepteur sint occaecatanim id est laborum. quae ab illo inventore veritatis et.</p>
-            <ul class="list-inline">
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                        Phone
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-                        Map
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                        Website
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                        Email
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
-                        Photos
-                    </a>
-                </li>
-            </ul>
+            <div class="row">
+                <div class="col-md-3">
+                    <img class="img-responsive" src="img/slider/bed2.jpg" />
+                </div>
+                <div class="col-md-9">
+                    <h4>Mweya safari lodge</h4>
+                    <p>P.O. BOX. 1234 kilembe mines <strong>KASESE</strong>
+                        Mweya is a safari lodge that tourists hire when touring western uganda.do- lore eu fugiat nulla pariatur. Excepteur sint occaecatanim id est laborum. quae ab illo inventore veritatis et.</p>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+                                Phone
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+                                Map
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
+                                Website
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                                Email
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
+                                Photos
+                            </a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
 
             <hr/>
-            <h4>Masai mara lodge</h4>
-            <p>P.O. BOX. 1234 kilembe mines <strong>KASESE</strong>
-                Mweya is a safari lodge that tourists hire when touring western uganda.do- lore eu fugiat nulla pariatur. Excepteur sint occaecatanim id est laborum. quae ab illo inventore veritatis et.</p>
-            <ul class="list-inline">
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
-                        Phone
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-                        Map
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
-                        Website
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
-                        Email
-                    </a>
-                </li>
-                <li>
-                    <a href="javascript:void()">
-                        <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
-                        Photos
-                    </a>
-                </li>
-            </ul>
+            <div class="row">
+                <div class="col-md-3">
+                    <img class="img-responsive" src="img/slider/bed1.jpg" />
+                </div>
+                <div class="col-md-9">
+                    <h4>Mweya safari lodge</h4>
+                    <p>P.O. BOX. 1234 kilembe mines <strong>KASESE</strong>
+                        Mweya is a safari lodge that tourists hire when touring western uganda.do- lore eu fugiat nulla pariatur. Excepteur sint occaecatanim id est laborum. quae ab illo inventore veritatis et.</p>
+                    <ul class="list-inline">
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>
+                                Phone
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
+                                Map
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-globe" aria-hidden="true"></span>
+                                Website
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+                                Email
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:void()">
+                                <span class="glyphicon glyphicon-picture" aria-hidden="true"></span>
+                                Photos
+                            </a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+
         </div>
         <div class="col-md-1"></div>
         <div class="col-md-3">

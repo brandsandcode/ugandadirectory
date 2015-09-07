@@ -9,6 +9,7 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -25,38 +26,39 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <h1 class="text-center">Keep your self informed</h1>
-            <p class="text-center">dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita- tion ullamco</p>
+            <h1 class="text-center padding-spaced orange">Keep your self informed about...</h1>
         </div>
     </div>
     <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-3 text-center padding-spaced">
             <img src="img/person.png" alt="advert here" class="img-rounded text-center"/>
-            <p class="text-center">forex</p>
+            <p class="text-center padding-spaced">forex</p>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 text-center padding-spaced">
             <img src="img/person.png" alt="advert here" class="img-rounded"/>
-            <p class="text-center">forex</p>
+            <p class="text-center padding-spaced">forex</p>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 text-center padding-spaced">
             <img src="img/person.png" alt="advert here" class="img-rounded"/>
-            <p class="text-center">forex</p>
+            <p class="text-center padding-spaced">forex</p>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 text-center padding-spaced">
             <img src="img/person.png" alt="advert here" class="img-rounded"/>
-            <p class="text-center">forex</p>
+            <p class="text-center padding-spaced">forex</p>
         </div>
     </div>
     <div class="row">
-        <div class="col-md-12">
-            <h4 class="text-center">Makerere private sponsorship addimision lists out</h4>
+        <div class="col-md-3 whitesmoke-back pointed-div-hover">
             <p class="text-center">dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco read more</p>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">
-            <h4 class="text-center">Keep your self informed</h4>
-            <p class="text-center">dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercita- tion ullamco</p>
+        <div class="col-md-3 whitesmoke-back pointed-div-hover">
+            <p class="text-center">dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco read more</p>
+        </div>
+        <div class="col-md-3 whitesmoke-back pointed-div-hover">
+            <p class="text-center">dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco read more</p>
+        </div>
+        <div class="col-md-3 whitesmoke-back pointed-div-hover">
+            <p class="text-center">dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco read more</p>
         </div>
     </div>
 </div>
@@ -65,5 +67,16 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.min.js"></script>
+<script type="application/javascript">
+    $(document).ready(function(){
+        $(".pointed-div-hover").hover(function(){
+            $(this).removeClass("whitesmoke-back");
+            $(this).addClass("orange-back");
+        },function(){
+            $(this).removeClass("orange-back");
+            $(this).addClass("whitesmoke-back");
+        });
+    });
+</script>
 </body>
 </html>
