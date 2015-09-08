@@ -121,17 +121,6 @@
     </div>
 </div>
 
-<div class="flip-right">
-    <div class="col-md-12">
-        <div class="col-md-6">
-            <span class="glyphicon glyphicon-chevron-up pull-right"></span>
-        </div>
-        <div class="col-md-6">
-            <h4>Calender</h4>
-        </div>
-    </div>
-</div>
-
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <!-- Include all compiled plugins (below), or include individual files as needed -->
